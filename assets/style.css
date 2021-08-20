@@ -207,7 +207,7 @@ button:active {
     font-family: calibri;
 }
 
-.box-1, .box-2, .box-3, .box-4 {
+.box-1, .box-2, .box-3, .box-4, .box-5, .box-6 {
     width:300px;
     height: 320px;
     background-repeat: no-repeat;
@@ -223,19 +223,27 @@ button:active {
 }
 
 .box-1:hover {
-    background-image: url("../images/weather.jpg");
+    background-image: url("../assets/images/Weather.jpg");
 }
 
 .box-2:hover {
-    background-image: url("../images/planner.jpg")
+    background-image: url("../assets/images/Planner.jpg")
 }
 
 .box-3:hover {
-    background-image: url("../images/password.jpg");
+    background-image: url("../assets/images/Password.jpg");
 }
 
 .box-4:hover {
-    background-image: url("../images/star\ wars.jpeg");
+    background-image: url("../assets/images/Food.jpg");
+}
+
+.box-5:hover {
+    background-image: url("../assets/images/quiz.jpg");
+}
+
+.box-6:hover {
+    background-image: url("../assets/images/ticket.jpg");
 }
 
 span {
