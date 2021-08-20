@@ -227,7 +227,7 @@ button:active {
 }
 
 .box-2:hover {
-    background-image: url("../assets/images/Planner.jpg")
+    background-image: url("../assets/images/Planner.jpg");
 }
 
 .box-3:hover {
@@ -235,7 +235,7 @@ button:active {
 }
 
 .box-4:hover {
-    background-image: url("../assets/images/Food.jpg");
+    background-image: url("../assets/images/food.jpg");
 }
 
 .box-5:hover {
